@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KrunalLathiya/node-js-express-tutorial.git"
+    "url": "git+https://github.com/liuguiyu/node-js-express.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KrunalLathiya/node-js-express-tutorial/issues"
+    "url": "https://github.com/liuguiyu/node-js-express/issues"
   },
-  "homepage": "https://github.com/KrunalLathiya/node-js-express-tutorial#readme",
+  "homepage": "https://github.com/liuguiyu/node-js-express#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.2",
