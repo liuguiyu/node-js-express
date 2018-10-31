@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/liuguiyu/node-js-express.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liuguiyu/node-js-express/issues"
