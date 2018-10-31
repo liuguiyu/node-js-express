@@ -1,4 +1,4 @@
-# node-js-express-tutorial
+# node-js-express
 
 Steps to use this application
 
