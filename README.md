@@ -6,5 +6,7 @@ Steps to use this application
 
 1) Clone the repo.
 2) go to the project folder and type npm install in terminal
-3) next use mongolab to create db and user and change the connection uri in app.js file
-4) go to the browser and hit http://localhost:3000/items/add
+3) if you have trouble download chromedriver, run npm set chromedriver_cdnurl https://npm.taobao.org/mirrors/chromedriver
+4) Update the connection uri in app.js file accordingly
+5) http://localhost:3000/items/add to add
+6) http://localhost:3000/items to browse
